@@ -22,4 +22,12 @@ class Animal{
 }
 
 let dog = new Animal('dog', 10, 4, true)
+let cat = new Animal('cat', 20, 4, true)
+let hamster = new Animal('hamster', 30, 4, true)
+let monkey = new Animal('monkey', 15, 4, true)
+let platypus = new Animal('platypus', 25, 10, true)
 dog.info()
+cat.info()
+hamster.info()
+monkey.info()
+platypus.info()
